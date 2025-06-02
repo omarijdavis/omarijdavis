@@ -9,9 +9,6 @@ href="https://www.linkedin.com/in/omari-davis-85764545/">Data Analyst</a>
 
 <h2>📚Certifications:</h2>
 
-- <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
-
 - <b>📜SQL, Excel, and Power BI Data Analytics Boot Camp</b>
   - [Demonstrated competency in beginner to advanced SQL, Microsoft Excel, and Microsoft Power BI skills]( https://www.virtualbadge.io/certificate-validator?credential=1f108c1d-9c26-4ae4-8575-558f5e51fb65)
 
